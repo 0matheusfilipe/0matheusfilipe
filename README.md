@@ -1,7 +1,7 @@
 ## 👋 Ei, eu sou o Matheus Filipe de Deus! 
 
 - 🎧 Hoje trabalho com suporte técnico, mas desejo ser um desenvolvedor web.
-- 🏫 Sou estudante de Sistemas de Informação na PUC-Minas.
+- 🏫 Sou estudante de Sistemas de Informação na PUC Minas.
 - 🌱 Estudando JavaScript e C#.
 - 🧪 Sou formado em técnico em Química pelo CEFET-MG.
 - 😄 Pronomes: ele/dele.
