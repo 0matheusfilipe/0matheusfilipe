@@ -1,10 +1,8 @@
 ## 👋 Ei, eu sou o Matheus Filipe de Deus! 
 
-- 🎧 Hoje trabalho com suporte técnico, mas desejo ser um desenvolvedor .NET.
 - 🏫 Sou estudante de Sistemas de Informação na PUC Minas.
-- 🌱 Estudando C# e SQL (SQL Server).
+- 🌱 Estudando C#.
 - 🧪 Sou formado em técnico em Química pelo CEFET-MG.
-- 😄 Pronomes: ele/dele.
 
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=0matheusfilipe&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0matheusfilipe&layout=compact&theme=dark)](https://github.com/0matheusfilipe/github-readme-stats)
