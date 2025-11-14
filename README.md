@@ -1,22 +1,81 @@
-## 👋 Ei, eu sou o Matheus Filipe de Deus! 
+# 👋 Matheus Filipe de Deus
 
-- 🏫 Sou estudante de Sistemas de Informação na PUC Minas.
-- 🌱 Estudando C#.
-- 🧪 Sou formado em técnico em Química pelo CEFET-MG.
+**`Desenvolvedor focado em soluções aplicando LLMs e IA em produtos`**
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=0matheusfilipe&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0matheusfilipe&layout=compact&theme=dark)](https://github.com/0matheusfilipe/github-readme-stats)
+## Sobre mim
+* Desenvolvo aplicações práticas usando **LLMs, LangChain e embeddings**.
+* Bolsista integral em **Sistemas de Informação pela PUC Minas**, com base técnica formada no **CEFET-MG**.
+* Busco construir soluções reais aplicando IA, explorando agentes, pipelines e integrações.
+* Top 3 – Ruptura 2025 (UFMG), hackathon focado em soluções com IA.
+* Documentando estudos e projetos em público como parte da minha jornada.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Theus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-##
- 
-<div> 
-  <a href="https://instagram.com/mxtheusfilipe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/pngrecruta" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheusfilipedesilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheusfilipesilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
 
+## ⚡ Skill Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,aws,gcp,git,github,fastapi,anaconda,notion\&theme=light)](https://skillicons.dev)
+
+**Também trabalho com:**
+
+* 🧠 **Frameworks de IA:** LangChain, LangGraph, HuggingFace Hub
+* 📦 **LLMs:** OpenAI, Google Gemini, modelos HF
+* 🔍 **Vetores & RAG:** Pinecone, Supabase Vector Store, FAISS, ChromaDB, text embeddings
+* 🚀 **DevOps & MLOps:** observabilidade, CI/CD simples, criação de pipelines
+* 🔗 **APIs & Integrações:** FastAPI, webhooks, orquestração de agentes
+
+---
+
+# 🔥 Projetos — Destaques
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/SEU-USER/SEU-REPO-REACT-AGENT">
+        <img src="https://img.hotimg.com/agentreact.png"
+             alt="Agente ReAct"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Agente ReAct com LangChain</b><br/>
+      <sub>Agente capaz de usar ferramentas, consultar dados e tomar decisões com raciocínio estruturado.</sub><br/>
+      🔗 <a href="https://github.com/SEU-USER/SEU-REPO-REACT-AGENT">Repo</a>
+      <br/>
+      <sub>Tags: LangChain, LLMs, Agents, ReAct</sub>
+    </td>
+
+   <td align="center" width="33%">
+      <a href="https://github.com/SEU-USER/EMBEDDINGS-PROJETO">
+        <img src="https://img.hotimg.com/embeddingscover.png"
+             alt="Embeddings Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Busca Semântica com Embeddings</b><br/>
+      <sub>Pipeline completo com chunking, embeddings, similaridade e visualização PCA/t-SNE.</sub><br/>
+      🔗 <a href="https://github.com/SEU-USER/EMBEDDINGS-PROJETO">Repo</a>
+      <br/>
+      <sub>Tags: Embeddings, Vector Search, NLP</sub>
+    </td>
+
+  </tr>
+</table>
+
+---
+
+## 📈 Stats
+
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=0matheusfilipe\&show_icons=true\&theme=gruvbox)
+
+---
+
+## 🔗 Links
+
+* 📂 **Portfólio** — em construção
+* ✉️ **E-mail:** [matheusfilipedesilva@gmail.com](mailto:matheusfilipedesilva@gmail.com)
+
+<a href="https://www.linkedin.com/in/matheusdeus/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
+</a>
+<a href="https://dev.to/matheusdeus" target="_blank">
+  <img src="https://skillicons.dev/icons?i=devto" width="45px"/>
+</a>
