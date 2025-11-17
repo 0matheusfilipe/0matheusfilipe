@@ -29,6 +29,19 @@
 
 <table>
   <tr>
+      <td align="center" width="33%">
+      <a href="https://github.com/0matheusfilipe/gerador-planos-aula-genai">
+        <img src="https://img.hotimg.com/agentreact.png"
+             alt="Gerador Planos de Aula c/ GenAI"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Planos de Aula c/ IA</b><br/>
+      <sub>Aplicação para gerar planos de aula personalizados utilizando um modelo de linguagem.</sub><br/>
+      🔗 <a href="https://github.com/0matheusfilipe/gerador-planos-aula-genai">Repo</a>
+      <br/>
+      <sub>Tags: Streamlit, LangChain, LLMs</sub>
+    </td>
     <td align="center" width="33%">
       <a href="https://github.com/SEU-USER/SEU-REPO-REACT-AGENT">
         <img src="https://img.hotimg.com/agentreact.png"
