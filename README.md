@@ -1,4 +1,4 @@
-# 👋 Matheus Filipe de Deus
+# 👋🏾 Matheus Filipe de Deus
 
 **`Desenvolvedor focado em soluções aplicando LLMs e IA em produtos`**
 
@@ -6,8 +6,8 @@
 * Desenvolvo aplicações práticas usando **LLMs, LangChain e embeddings**.
 * Bolsista integral em **Sistemas de Informação pela PUC Minas**, com base técnica formada no **CEFET-MG**.
 * Busco construir soluções reais aplicando IA, explorando agentes, pipelines e integrações.
-* Top 3 – Ruptura 2025 (UFMG), hackathon focado em soluções com IA.
 * Documentando estudos e projetos em público como parte da minha jornada.
+* Top 3 – Ruptura 2025 (UFMG), hackathon focado em soluções com IA.
 
 ---
 
@@ -19,7 +19,7 @@
 
 * 🧠 **Frameworks de IA:** LangChain, LangGraph, HuggingFace Hub
 * 📦 **LLMs:** OpenAI, Google Gemini, modelos HF
-* 🔍 **Vetores & RAG:** Pinecone, Supabase Vector Store, FAISS, ChromaDB, text embeddings
+* 🔍 **Vetores & RAG:** Pinecone, Supabase Vector Store, text embeddings
 * 🚀 **DevOps & MLOps:** observabilidade, CI/CD simples, criação de pipelines
 * 🔗 **APIs & Integrações:** FastAPI, webhooks, orquestração de agentes
 
