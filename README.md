@@ -43,7 +43,7 @@
       <sub>Tags: Streamlit, LangChain, LLMs</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/SEU-USER/SEU-REPO-REACT-AGENT">
+      <a href="https://github.com/0matheusfilipe/agente-re-act">
         <img src="https://img.hotimg.com/agentreact.png"
              alt="Agente ReAct"
              style="width:100%; height:200px; object-fit:cover;"/>
@@ -51,7 +51,7 @@
       <br/>
       <b>Agente ReAct com LangChain</b><br/>
       <sub>Agente capaz de usar ferramentas, consultar dados e tomar decisões com raciocínio estruturado.</sub><br/>
-      🔗 <a href="https://github.com/SEU-USER/SEU-REPO-REACT-AGENT">Repo</a>
+      🔗 <a href="https://github.com/0matheusfilipe/agente-re-act">Repo</a>
       <br/>
       <sub>Tags: LangChain, LLMs, Agents, ReAct</sub>
     </td>
@@ -85,6 +85,7 @@
 
 * 📂 **Portfólio** — em construção
 * ✉️ **E-mail:** [matheusfilipedesilva@gmail.com](mailto:matheusfilipedesilva@gmail.com)
+* 🤗 **Hugging Face:** https://huggingface.co/matheusdeus
 
 <a href="https://www.linkedin.com/in/matheusdeus/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
