@@ -1,6 +1,6 @@
 # 👋🏾 Matheus Filipe de Deus
 
-**`Desenvolvedor focado em soluções aplicando LLMs e IA em produtos`**
+**`Desenvolvedor focado em soluções aplicando dados e IA em produtos`**
 
 ## Sobre mim
 * Desenvolvo aplicações práticas usando **LLMs, LangChain e embeddings**.
